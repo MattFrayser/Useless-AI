@@ -2,6 +2,9 @@
 Useless AI is a satirical take on AI chat bots. The useless AI chat bot is witty, sarcastic, rude, and above all very aware it is smarter than you.
 This fun project was made in Next.JS and uses openAI's API.
 
+## View Project
+[On Vercel](https://vercel.com/matts-projects-6c5395e7/useless-ai)
+
 
 ## Getting Started
 First, fork the repo to your dev environment and install the packages:
